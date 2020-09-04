@@ -25,7 +25,7 @@ jobs:
         run: npm install
         working-directory: default
       - name: Build speedlify
-        run: npm run build-production
+        run: npm run build-production -- --pathprefix=speedlify-actions
         working-directory: default
       - name: Deploy to gh-pages branch
         run: |
