@@ -40,30 +40,19 @@ jobs:
         with:
           name: results-last-runs.json
           path: default/_data/results-last-runs.json
-      - name: Init results
-        if: steps.checkout-results.outcome == 'failure'
+      - name: Push results
         run: |
-          mkdir results
+          mkdir -p results
+          rm -r results/*
           cp -r default/_data/results* results
           cd results
           ORIGIN=https://${{ github.repository_owner }}:${{ github.token }}@github.com/${{ github.repository }}.git
           git init
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git checkout -b results
-          git add .
-          git commit -m "Commit init results"
-          git push -u $ORIGIN results
-      - name: Push results
-        if: steps.checkout-results.outcome == 'success'
-        run: |
-          rm -r results/*
-          cp -r default/_data/results* results
-          cd results
+          git switch -c results
           if [[ `git status --porcelain` ]]; then
             git config user.name github-actions
             git config user.email github-actions@github.com
             git add .
             git commit -m "Commit results"
-            git push
+            git push -u $ORIGIN results
           fi
