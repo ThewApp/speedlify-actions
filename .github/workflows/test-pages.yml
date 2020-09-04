@@ -43,7 +43,7 @@ jobs:
       - name: Push results
         run: |
           mkdir -p results
-          rm -r results/*
+          rm -rf results/*
           cp -r default/_data/results* results
           cd results
           ORIGIN=https://${{ github.repository_owner }}:${{ github.token }}@github.com/${{ github.repository }}.git
