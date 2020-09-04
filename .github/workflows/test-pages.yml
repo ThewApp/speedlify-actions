@@ -48,7 +48,7 @@ jobs:
           cd results
           ORIGIN=https://${{ github.repository_owner }}:${{ github.token }}@github.com/${{ github.repository }}.git
           git init
-          git switch -c results
+          git switch results || git switch -c results
           if [[ `git status --porcelain` ]]; then
             git config user.name github-actions
             git config user.email github-actions@github.com
