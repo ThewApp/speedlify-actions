@@ -1,6 +1,6 @@
 # Speedlify + GitHub Actions
 
-This repository demonstrates how you can configure GitHub Actions `workflow` to **continuously measure your website Lighthouse score** by using speedlify + GitHub actions for free. Then you can deploy to any _static hosting_.
+This repository demonstrates how you can configure GitHub Actions `workflow` to **continuously measure your website Lighthouse score** by using speedlify + GitHub actions for free. Then you can deploy to any _static hosting_. Read more in my [blog post](https://www.thewdhanat.com/blog/monitor-lighthouse-score-with-speedlify-+-github-actions/).
 
 ## Motivations
 
@@ -24,6 +24,8 @@ minutes build time per month in private repository for free. Thanks to [GitHub A
 ## Deploy to GitHub Pages
 
 There is [another workflow file](.github/workflows/deploy-ghpages.yml) in this repository that automatically deploy speedlify to GitHub Pages. [Demo site](https://thewapp.github.io/speedlify-actions) only have data on _default site_ and _Static Site Generator_.
+
+Would like to deploy to other hosting providers? Have a look at [an example that deploys to Vercel](https://github.com/ThewApp/speedlify-actions-vercel).
 
 ## About speedlify
 
