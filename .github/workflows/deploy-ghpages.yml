@@ -26,11 +26,9 @@ jobs:
         working-directory: default
       - name: Build speedlify
         run: |
-          npm run build -- --pathprefix=$REPOSITORY_NAME
+          npm run build -- --pathprefix=${GITHUB_REPOSITORY#*/}
           npm run zip-results
         working-directory: default
-        env:
-          REPOSITORY_NAME: ${{ github.event.repository.name }}
       - name: Deploy to gh-pages branch
         run: |
           mkdir gh-pages
