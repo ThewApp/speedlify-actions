@@ -17,7 +17,7 @@ minutes build time per month in private repository for free. Thanks to [GitHub A
 
 ## Deploy to GitHub Pages
 
-There is [another workflow file](blob/main/.github/workflows/deploy-ghpages.yml) in this repository that demonstrates how you can deploy speedlify to GitHub Pages. [Demo site](https://thewapp.github.io/speedlify-actions)
+There is [another workflow file](blob/main/.github/workflows/deploy-ghpages.yml) in this repository that automatically deploy speedlify to GitHub Pages. [Demo site](https://thewapp.github.io/speedlify-actions) only have data on _default site_ and _Static Site Generator_.
 
 ## About speedlify
 
