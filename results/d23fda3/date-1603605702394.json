@@ -1,0 +1,46 @@
+{
+  "url": "https://gridsome.org/",
+  "requestedUrl": "https://gridsome.org/",
+  "timestamp": 1603605760712,
+  "ranks": {
+    "hundos": 8,
+    "performance": 8,
+    "accessibility": 8,
+    "cumulative": 8
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.69,
+    "accessibility": 0.97,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 358
+  },
+  "firstContentfulPaint": 1536.446,
+  "speedIndex": 1536.446,
+  "largestContentfulPaint": 5743.457758804321,
+  "totalBlockingTime": 342.9882411956787,
+  "cumulativeLayoutShift": 0.9997547622256808,
+  "timeToInteractive": 3250.457758804321,
+  "maxPotentialFirstInputDelay": 404,
+  "timeToFirstByte": 10.090999999999998,
+  "weight": {
+    "summary": "103 requests • 974 KiB",
+    "total": 997862,
+    "image": 0,
+    "imageCount": 0,
+    "script": 178137,
+    "scriptCount": 3,
+    "document": 50595,
+    "font": 143332,
+    "fontCount": 4,
+    "stylesheet": 14018,
+    "stylesheetCount": 1,
+    "thirdParty": 18784,
+    "thirdPartyCount": 2
+  },
+  "axe": {
+    "passes": 782,
+    "violations": 31
+  }
+}
