@@ -1,0 +1,46 @@
+{
+  "url": "https://nuxtjs.org/",
+  "requestedUrl": "https://nuxtjs.org/",
+  "timestamp": 1604297144567,
+  "ranks": {
+    "hundos": 7,
+    "performance": 9,
+    "accessibility": 7,
+    "cumulative": 7
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 0.77,
+    "accessibility": 0.97,
+    "bestPractices": 0.93,
+    "seo": 0.92,
+    "total": 359
+  },
+  "firstContentfulPaint": 1803.826,
+  "speedIndex": 1803.826,
+  "largestContentfulPaint": 1803.826,
+  "totalBlockingTime": 809.289499999999,
+  "cumulativeLayoutShift": 0.010745627085367838,
+  "timeToInteractive": 5771.611999999999,
+  "maxPotentialFirstInputDelay": 320,
+  "timeToFirstByte": 29.90299999999999,
+  "weight": {
+    "summary": "42 requests • 462 KiB",
+    "total": 473494,
+    "image": 27059,
+    "imageCount": 11,
+    "script": 375091,
+    "scriptCount": 23,
+    "document": 36487,
+    "font": 26292,
+    "fontCount": 1,
+    "stylesheet": 6694,
+    "stylesheetCount": 2,
+    "thirdParty": 106651,
+    "thirdPartyCount": 10
+  },
+  "axe": {
+    "passes": 684,
+    "violations": 14
+  }
+}
