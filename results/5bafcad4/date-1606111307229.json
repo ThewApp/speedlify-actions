@@ -1,0 +1,46 @@
+{
+  "url": "https://sapper.svelte.dev/",
+  "requestedUrl": "https://sapper.svelte.dev/",
+  "timestamp": 1606111607944,
+  "ranks": {
+    "hundos": 4,
+    "performance": 1,
+    "accessibility": 10,
+    "cumulative": 4
+  },
+  "lighthouse": {
+    "version": "6.4.1",
+    "performance": 1,
+    "accessibility": 0.95,
+    "bestPractices": 1,
+    "seo": 0.92,
+    "total": 387
+  },
+  "firstContentfulPaint": 1051.074,
+  "speedIndex": 1051.074,
+  "largestContentfulPaint": 1400.574,
+  "totalBlockingTime": 6.5,
+  "cumulativeLayoutShift": 0.012626953125000001,
+  "timeToInteractive": 1507.074,
+  "maxPotentialFirstInputDelay": 63,
+  "timeToFirstByte": 1.1349999999999998,
+  "weight": {
+    "summary": "15 requests • 91 KiB",
+    "total": 93243,
+    "image": 4548,
+    "imageCount": 5,
+    "script": 16219,
+    "scriptCount": 2,
+    "document": 3367,
+    "font": 55848,
+    "fontCount": 3,
+    "stylesheet": 13261,
+    "stylesheetCount": 4,
+    "thirdParty": 0,
+    "thirdPartyCount": 0
+  },
+  "axe": {
+    "passes": 119,
+    "violations": 9
+  }
+}
