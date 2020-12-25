@@ -1,0 +1,182 @@
+{
+  "https://hexo.io/": {
+    "requestedUrl": "https://hexo.io/",
+    "url": "https://hexo.io/",
+    "hash": "378dfae9",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://www.gatsbyjs.com/": {
+    "requestedUrl": "https://www.gatsbyjs.com/",
+    "url": "https://www.gatsbyjs.com/",
+    "hash": "3611ee0e",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://nuxtjs.org/": {
+    "requestedUrl": "https://nuxtjs.org/",
+    "url": "https://nuxtjs.org/",
+    "hash": "3be3e21",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://gohugo.io/": {
+    "requestedUrl": "https://gohugo.io/",
+    "url": "https://gohugo.io/",
+    "hash": "40f12e4e",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://sapper.svelte.dev/": {
+    "requestedUrl": "https://sapper.svelte.dev/",
+    "url": "https://sapper.svelte.dev/",
+    "hash": "5bafcad4",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://jekyllrb.com/": {
+    "requestedUrl": "https://jekyllrb.com/",
+    "url": "https://jekyllrb.com/",
+    "hash": "621421f9",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://v2.docusaurus.io/": {
+    "requestedUrl": "https://v2.docusaurus.io/",
+    "url": "https://v2.docusaurus.io/",
+    "hash": "9a58dc57",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://www.11ty.dev/": {
+    "requestedUrl": "https://www.11ty.dev/",
+    "url": "https://www.11ty.dev/",
+    "hash": "a1e5af56",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://www.speedlify.dev/": {
+    "requestedUrl": "https://www.speedlify.dev/",
+    "url": "https://www.speedlify.dev/",
+    "hash": "b2d9d426",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://nextjs.org/": {
+    "requestedUrl": "https://nextjs.org/",
+    "url": "https://nextjs.org/",
+    "hash": "b883831",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://gridsome.org/": {
+    "requestedUrl": "https://gridsome.org/",
+    "url": "https://gridsome.org/",
+    "hash": "d23fda3",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://vuepress.vuejs.org/": {
+    "requestedUrl": "https://vuepress.vuejs.org/",
+    "url": "https://vuepress.vuejs.org/",
+    "hash": "fd39e9df",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  },
+  "https://docsify.js.org/": {
+    "requestedUrl": "https://docsify.js.org/",
+    "url": "https://docsify.js.org/",
+    "hash": "fdfaa595",
+    "categories": [
+      "eleventy-starters",
+      "netlify",
+      "sample",
+      "ssg",
+      "test-runners",
+      "zachleat"
+    ],
+    "vertical": "eleventy-starters"
+  }
+}
